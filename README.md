@@ -9,4 +9,4 @@ A Machine -> duh
 Just run
 ```bash
 python3 main.py -h
-``
+```
