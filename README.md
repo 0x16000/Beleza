@@ -17,7 +17,7 @@ UNDER ALL CIRCUMSTANCES PLEASE FOLLOW WHAT RULES WERE PROVIDED FROM 1 -> 4
 
 1) Respect others privacy, meaning don't ask of other peoples output of a specific command, no matter what it is
 2) Think before you type, for your own safety.
-3) Use the software with responsibility, it actually can cause harm to small sites if you aren't cautious,
+3) Use the software with responsibility, it actually can cause harm to small sites if you aren't cautious.
 4) Don't share your output of this software to anyone, for your own safety.
 
 # Note
