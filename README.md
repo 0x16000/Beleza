@@ -19,3 +19,6 @@ UNDER ALL CIRCUMSTANCES PLEASE FOLLOW WHAT RULES WERE PROVIDED FROM 1 -> 4
 2) Think before you type, for your own safety.
 3) Use the software with responsibility, it actually can cause harm to small sites if you ain't cautious,
 4) Don't share your output of this software to anyone, for your own safety.
+
+# Note
+This is a tuned-down and safe to use version of this Software, i'm still thinking about releasing the original (harmful).
