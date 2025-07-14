@@ -21,4 +21,4 @@ UNDER ALL CIRCUMSTANCES PLEASE FOLLOW WHAT RULES WERE PROVIDED FROM 1 -> 4
 4) Don't share your output of this software to anyone, for your own safety.
 
 # Note
-This is a tuned-down and **generally** safe to use version of this Software, i'm still thinking about releasing the original (harmful).
+This is a tuned-down and **generally** safe to use version of this Software, i'm still thinking about releasing the original containing the exploit.
