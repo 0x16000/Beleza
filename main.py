@@ -57,27 +57,10 @@ def main():
         sys.exit(0)
 
     if "-p" in sys.argv:
-        p_index = sys.argv.index("-p")
-        if p_index + 1 < len(sys.argv):
-            ip = sys.argv[p_index + 1]
-            if not quiet:
-                print(f"Pinging {ip}\n")
-            system = platform.system()
-            ping_cmd = ["ping", "-c", "5", ip] if system != "Windows" else ["ping", "-n", "5", ip]
-            result = subprocess.run(
-                ping_cmd,
-                stdout=subprocess.DEVNULL if quiet else None,
-                stderr=subprocess.DEVNULL if quiet else None
-            )
-            if not quiet:
-                if result.returncode == 0:
-                    print("Completed with no failures")
-                else:
-                    print("Completed with failures")
-            sys.exit(0)
-        else:
-            print("Error: -p flag requires an IP address")
-            sys.exit(1)
+        if not quiet:
+            print("Opening ping.py...\n")
+        subprocess.run(["python3", os.path.join(os.path.dirname(__file__), "ping.py")])
+        sys.exit(0)
 
     if "-d" in sys.argv:
         d_index = sys.argv.index("-d")
